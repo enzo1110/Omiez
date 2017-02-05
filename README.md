@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My Pi Page
 
 You can use the [editor on GitHub](https://github.com/enzo1110/Pi/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
